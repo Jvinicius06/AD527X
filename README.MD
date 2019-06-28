@@ -1,4 +1,4 @@
-#AD527X
+AD527X
 
 Arduino library for Analog Devices AD5272 and AD5274 Digital Rheostats with I2C
 
